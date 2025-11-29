@@ -493,7 +493,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 ## 📞 Suporte
 
 - **📋 Issues**: [GitHub Issues](https://github.com/seu-usuario/random_chat_bot_V2/issues)
-- **💬 Telegram**: [@seu_usuario](https://t.me/grub_install)
+- **💬 Telegram**: [@grub_install](https://t.me/grub_install)
 - **💬 Versão customizada**: [LivePix](https://livepix.gg/sudosu)
 
 <div align="center">
