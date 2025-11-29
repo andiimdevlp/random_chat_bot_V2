@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+python-dotenv==1.0.1
+pandas==2.2.2
+pyarrow==16.1.0
