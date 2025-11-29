@@ -5,8 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0.106-green?logo=telegram&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/random_chat_bot_V2)
-![GitHub issues](https://img.shields.io/github/issues/seu-usuario/random_chat_bot_V2)
+![GitHub last commit](https://img.shields.io/github/last-commit/andiimdevlp/random_chat_bot_V2)
+![GitHub issues](https://img.shields.io/github/issues/andiimdevlp/random_chat_bot_V2)
 
 **Conecte pessoas anonimamente com um sistema eficiente e seguro**
 
@@ -178,7 +178,7 @@ random_chat_bot_V2/
 
 ```bash
 # 1️⃣ Clone o repositório
-git clone https://github.com/seu-usuario/random_chat_bot_V2.git
+git clone https://github.com/andiimdevlp/random_chat_bot_V2.git
 cd random_chat_bot_V2
 
 # 2️⃣ Crie ambiente virtual
@@ -480,9 +480,9 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 **🌟 Se este projeto te ajudou, considere dar uma estrela no GitHub!**
 
-[Reportar Bug](https://github.com/seu-usuario/random_chat_bot_V2/issues) • 
-[Solicitar Funcionalidade](https://github.com/seu-usuario/random_chat_bot_V2/issues) • 
-[Contribuir](https://github.com/seu-usuario/random_chat_bot_V2/pulls)
+[Reportar Bug](https://github.com/andiimdevlp/random_chat_bot_V2/issues) • 
+[Solicitar Funcionalidade](https://github.com/andiimdevlp/random_chat_bot_V2/issues) • 
+[Contribuir](https://github.com/andiimdevlp/random_chat_bot_V2/pulls)
 
 **Desenvolvido com ❤️ para a comunidade Telegram**
 
@@ -492,7 +492,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 📞 Suporte
 
-- **📋 Issues**: [GitHub Issues](https://github.com/seu-usuario/random_chat_bot_V2/issues)
+- **📋 Issues**: [GitHub Issues](https://github.com/andiimdevlp/random_chat_bot_V2/issues)
 - **💬 Telegram**: [@grub_install](https://t.me/grub_install)
 - **💬 Versão customizada**: [LivePix](https://livepix.gg/sudosu)
 
